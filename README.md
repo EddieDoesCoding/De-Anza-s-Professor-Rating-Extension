@@ -12,13 +12,15 @@ https://github.com/user-attachments/assets/ff321f64-977f-48bd-b138-6ed192ddc168
 
 -Displays a green,orange or red color rating depending on the professor's rating  
 -Click on the rating to look at the reviews on RateMyProfessor.com  
+-Works for all departments
+ 
 
 
 # How to Download
 
 Precaution: This extension won't work on safari but it does work on other browsers. Examples- Google Chrome, 
 fire fox, microsoft edge and brave.  
-It won't work on phone either so a laptop or desktop is required.
+
 I found google chrome to work best.
 
 
@@ -27,6 +29,15 @@ Step 2: Go to file explorer/ Or finder if you are on MAC -> Extract all on the f
 Step 2: Go to the browser -> Click the 3 dots -> Extension -> Turn on "Developer mode"  
 Step 3: Click Load Unpacked -> Select Folder on the extracted file
 
+
+**Issues**
+
+Unfortunately, the extension doesn't work on phones :(  
+
+Some professors on RMP has nicknames or suffix which is different from De Anza's website so the extension wouldn't be able to pick this up. 
+Which makes the extension to leave some professors with no rating beside their name.
+
+The extension wouldn't work on MyPortal either. Only on de anza's class listing site.
 
 
 
