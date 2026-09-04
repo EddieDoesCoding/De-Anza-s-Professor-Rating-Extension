@@ -30,7 +30,7 @@ Step 2: Go to the browser -> Click the 3 dots -> Extension -> Turn on "Developer
 Step 3: Click Load Unpacked -> Select Folder on the extracted file
 
 
-**Issues**
+# Issues
 
 Unfortunately, the extension doesn't work on phones :(  
 
