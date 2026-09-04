@@ -1,0 +1,20 @@
+/*Feel free to change the # number to change colors to your liking. */
+
+.rmp-badge {
+  margin-left: 8px;
+  padding: 1px 6px;
+
+  border: 1px solid currentColor;
+  border-radius: 3px;
+
+  font-family: monospace !important;
+  font-size: 12px !important;
+  font-weight: bold !important;
+  text-decoration: none !important;
+
+  white-space: nowrap;
+}
+
+.rmp-good { color: #0f766e !important; }  /* 4.0 and above */
+.rmp-okay { color: #b45309 !important; }  /* 3.0 to 3.9 */
+.rmp-bad  { color: #be123c !important; }  /* below 3.0 */

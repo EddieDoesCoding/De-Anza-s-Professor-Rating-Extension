@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "RMP for De Anza",
+  "version": "1.0.0",
+  "description": "Shows RateMyProfessors ratings next to instructor names on the De Anza class schedule.",
+
+  "permissions": ["storage"],
+
+  "host_permissions": ["https://www.ratemyprofessors.com/*"],
+
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://www.deanza.edu/schedule/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+
+}
