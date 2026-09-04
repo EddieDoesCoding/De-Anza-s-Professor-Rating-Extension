@@ -21,7 +21,7 @@ fire fox, microsoft edge and brave.
 It won't work on phone either so a laptop or desktop is required.
 
 
-Step 1: Click the big green "Code" button above the files. Download Zip -> Go to file explorer -> Extract all on the file  
+Step 1: Click the big green "Code" button above the files. Download Zip -> Go to file explorer/ Or finder if you are on MAC -> Extract all on the file  
 Step 2: Go to the browser -> Click the 3 dots -> Extension -> Turn on "Developer mode"  
 Step 3:Click Load Unpacked -> Select Folder on the unzipped file
 
