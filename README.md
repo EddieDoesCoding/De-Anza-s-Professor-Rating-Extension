@@ -19,11 +19,13 @@ https://github.com/user-attachments/assets/ff321f64-977f-48bd-b138-6ed192ddc168
 Precaution: This extension won't work on safari but it does work on other browsers. Examples- Google Chrome, 
 fire fox, microsoft edge and brave.  
 It won't work on phone either so a laptop or desktop is required.
+I found google chrome to work best.
 
 
-Step 1: Click the big green "Code" button above the files. Download Zip -> Go to file explorer/ Or finder if you are on MAC -> Extract all on the file  
+Step 1: Click the big green "Code" button above the files -> Download Zip  
+Step 2: Go to file explorer/ Or finder if you are on MAC -> Extract all on the file  
 Step 2: Go to the browser -> Click the 3 dots -> Extension -> Turn on "Developer mode"  
-Step 3:Click Load Unpacked -> Select Folder on the unzipped file
+Step 3: Click Load Unpacked -> Select Folder on the extracted file
 
 
 
