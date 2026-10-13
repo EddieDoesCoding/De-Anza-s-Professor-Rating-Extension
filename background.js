@@ -6,7 +6,7 @@
 //If extension start failing, open
 //ratemyprofessors.com, press F12, click Network, and copy the current
 // "Authorization" header from any request and paste it after Basic
-const LOGIN = "Basic dGVzdDp0ZXN0";
+const LOGIN = "null";
 
 const SCHOOL = "U2Nob29sLTE5Njc="; //De Anza's school ID on RMP(Rate My Professor)
 
